@@ -1,8 +1,8 @@
-**Hand-Tracking Volume Control 🎛️**
+****Hand-Tracking Volume Control 🎛️****
 
 This project allows users to control their system volume through hand gestures, using computer vision and hand tracking. By tracking the thumb and index finger, the application adjusts the system’s audio volume based on the distance between them, providing a touch-free interface for volume control.
 
-**Features ✨**
+****Features ✨****
 
 **Real-time hand tracking** using MediaPipe.
 
@@ -12,7 +12,7 @@ This project allows users to control their system volume through hand gestures, 
 
 **Displays FPS** for monitoring performance.
 
-**How It Works 🔍**
+****How It Works 🔍****
 
 1.The webcam captures the video stream, and MediaPipe detects hand landmarks in real-time.
 
@@ -24,7 +24,7 @@ This project allows users to control their system volume through hand gestures, 
 
 5.The volume bar and percentage are updated on-screen to give real-time feedback.
 
-**Technologies Used 🛠️**
+****Technologies Used 🛠️****
 
 **Python:** Core programming language.
 
@@ -37,7 +37,7 @@ This project allows users to control their system volume through hand gestures, 
 **NumPy:** For interpolation of volume levels.
 
 
-**Installation ⚙️**
+****Installation ⚙️****
 
 **Clone the repository:**
 git clone https://github.com/yourusername/Hand-Tracking-Volume-Control.git
@@ -58,7 +58,7 @@ comtypes.
 **Run the project:**
 python volume_control.py
 
-**Usage 🎮**
+****Usage 🎮****
 1.Ensure your webcam is connected.
 
 2.Run the project and use your thumb and index finger to control the volume.
@@ -67,8 +67,8 @@ python volume_control.py
 
 4.Press q to exit the application.
 
-**Project Structure 📂**
-
+****Project Structure 📂**
+**
 Hand-Tracking-Volume-Control/
 
 │
@@ -82,7 +82,7 @@ Hand-Tracking-Volume-Control/
 └── README.md      
 
 
-**Future Improvements 🛠️**
+****Future Improvements 🛠️****
 
 1.Add gesture-based play/pause functionality.
 
