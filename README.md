@@ -70,11 +70,17 @@ python volume_control.py
 **Project Structure 📂**
 
 Hand-Tracking-Volume-Control/
+
 │
-├── Hand_tracking_module.py   # Hand tracking utility module
-├── volume_control.py         # Main script to run the project
-├── requirements.txt          # Project dependencies
-└── README.md                 # Project documentation
+
+├── Hand_tracking_module.py 
+# Hand tracking utility module
+├── volume_control.py 
+# Main script to run the project
+├── requirements.txt 
+# Project dependencies
+└── README.md      
+# Project documentation
 
 **Future Improvements 🛠️**
 
